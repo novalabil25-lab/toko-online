@@ -1,3 +1,5 @@
 kipas
 botol
 motor
+pintu
+keramik
